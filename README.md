@@ -1,6 +1,6 @@
 # AlmaBetter Capstone Project 3 - Regression : TED Talks Views Prediction
 
-This project is a part of the [AlmaBetter Premium Program](https://www.almabetter.com/) 
+This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
 
 #### -- Project Status: [Completed]
 
