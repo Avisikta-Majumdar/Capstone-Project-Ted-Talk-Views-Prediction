@@ -4,6 +4,8 @@ This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.co
 
 #### -- Project Status: [Completed]
 
+#### -- Score: [ 93 / 100 ]
+
 ## Project Summary :
 #### Problem Statement : 
 The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
@@ -19,7 +21,7 @@ The Data is available for 4005 TED talks .
 
 **Dataset info**
 
-* 1. Number of records: 4,005
+* 1.Number of records: 4,005
 
 * 2.Number of features: 19
 
